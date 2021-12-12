@@ -1,0 +1,7 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.0+cpu 
+matplotlib
+numpy
+pyaml
+mlflow
+tensorboard
